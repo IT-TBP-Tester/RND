@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>APP</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description>APP Server</description>
+      <initValue>'https://app.totalbp.com/'</initValue>
+      <name>Url</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Accounting</description>
+      <initValue>'713'</initValue>
+      <name>Acc</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

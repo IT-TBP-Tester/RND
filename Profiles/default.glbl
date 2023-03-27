@@ -3,5 +3,10 @@
    <description></description>
    <name>default</name>
    <tag></tag>
-   <defaultProfile>true</defaultProfile>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description>CIS Server</description>
+      <initValue>'https://cis.totalbp.com/'</initValue>
+      <name>Url</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

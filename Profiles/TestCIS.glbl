@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>TestCIS</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description>TestCIS Server</description>
+      <initValue>'https://testcis.totalbp.com/'</initValue>
+      <name>Url</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Kode Proyek</description>
+      <initValue>'9903'</initValue>
+      <name>Kode_Proyek</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>IT</description>
+      <initValue>'724'</initValue>
+      <name>IT</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Cash Operation</description>
+      <initValue>'712'</initValue>
+      <name>CO</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Accounting</description>
+      <initValue>'713'</initValue>
+      <name>Acc</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Logistik Pusat</description>
+      <initValue>'707'</initValue>
+      <name>Log</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Server TestCIS</description>
+      <initValue>'10.100.2.89'</initValue>
+      <name>Server_db</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Database Name</description>
+      <initValue>'MasterData'</initValue>
+      <name>db</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'sa_test'</initValue>
+      <name>Username_db</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'234567'</initValue>
+      <name>Password_db</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

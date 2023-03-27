@@ -1,0 +1,51 @@
+{
+  "keywordFileContentHash": "1CC5050BCE9E6C680559BD69A53C0D23",
+  "keywordClasses": [
+    {
+      "name": "mypackage.userForm",
+      "keywordMethods": [
+        {
+          "name": "BiayaUmum",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "PengajuanCash",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "PriceList",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "Bank_Garansi_Asuransi",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "Bank_Garansi_Fasilitas",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "Master_Customer",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "Penempatan_Asuransi",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "SPK",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

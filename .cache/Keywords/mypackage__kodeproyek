@@ -1,0 +1,50 @@
+{
+  "keywordFileContentHash": "4935213905FAC8502CAA8EAFD8623592",
+  "keywordClasses": [
+    {
+      "name": "mypackage.kodeproyek",
+      "keywordMethods": [
+        {
+          "name": "IT",
+          "parameters": [
+            {
+              "name": "KdPry",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "CashOperation",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "Accounting",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "Logistic",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "Direktur",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

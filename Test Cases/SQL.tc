@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SQL</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>Azure</productName>
+      <properties>
+         <entry>
+            <key>azure.testcase.ids</key>
+            <value>10</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <testCaseGuid>a0c49905-07b1-45e9-9687-539de2bfcb05</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e56bd0a9-e80e-4701-af42-7ddaae5d09e2</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fbb4587f-ceaa-457e-9851-9dec25dc4575</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'SELECT Department,DisplayName,Title FROM MasterData.dbo.[V_AD_USER_INFO] where Title = \'SYSTEM IMPLEMENTOR\''</defaultValue>
+      <description></description>
+      <id>e56bd0a9-e80e-4701-af42-7ddaae5d09e2</id>
+      <masked>false</masked>
+      <name>QuerySelect</name>
+   </variable>
+   <variable>
+      <defaultValue>'SELECT [Nama_Bank], [Deskripsi_Bank]\r\nFROM [MasterData].[dbo].[M_Bank]'</defaultValue>
+      <description></description>
+      <id>fbb4587f-ceaa-457e-9851-9dec25dc4575</id>
+      <masked>false</masked>
+      <name>bank</name>
+   </variable>
+</TestCaseEntity>

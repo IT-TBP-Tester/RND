@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SQL_SP</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7a028eda-8ac4-44d1-85c3-4b8d51b152d2</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>dc1a24c2-9f58-47f5-a9a8-ff6091d92b48</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e562c2ac-1792-4925-a2e9-3a918be41913</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>aae03c71-d8bd-42d7-843b-f53493691210</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'SELECT Department,DisplayName,Title FROM MasterData.dbo.[V_AD_USER_INFO] where company is not null'</defaultValue>
+      <description></description>
+      <id>dc1a24c2-9f58-47f5-a9a8-ff6091d92b48</id>
+      <masked>false</masked>
+      <name>QuerySelect</name>
+   </variable>
+   <variable>
+      <defaultValue>'SELECT [Nama_Bank], [Deskripsi_Bank]\r\nFROM [MasterData].[dbo].[M_Bank]'</defaultValue>
+      <description></description>
+      <id>e562c2ac-1792-4925-a2e9-3a918be41913</id>
+      <masked>false</masked>
+      <name>bank</name>
+   </variable>
+   <variable>
+      <defaultValue>'[MasterData].[dbo].[SPM_GET_Kurs] USD, \'2018-03-24\''</defaultValue>
+      <description></description>
+      <id>aae03c71-d8bd-42d7-843b-f53493691210</id>
+      <masked>false</masked>
+      <name>SP</name>
+   </variable>
+</TestCaseEntity>

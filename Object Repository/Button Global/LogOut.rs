@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>LogOut</name>
+   <tag></tag>
+   <elementGuidId>6c92a84a-3d70-4480-ab37-7868d02938c9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-navbar-collapse']/div/div/ul/li[5]/ul/li[6]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>780a928a-4886-4185-a9b7-30caa23d4504</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>../Authenticate/Signout.aspx</value>
+      <webElementGuid>d55b2e9e-c96f-4b69-b31d-bbadadc0f904</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  Log
+                                            Out</value>
+      <webElementGuid>62f7cb2c-d86d-4f1d-86ab-716180be16b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-navbar-collapse&quot;)/div[1]/div[@class=&quot;right clearfix&quot;]/ul[@class=&quot;nav navbar-nav pull-right right-navbar-nav&quot;]/li[@class=&quot;dropdown open&quot;]/ul[@class=&quot;dropdown-menu&quot;]/li[6]/a[1]</value>
+      <webElementGuid>99e2e57b-7212-415a-9367-9b0a870c3d4f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-navbar-collapse']/div/div/ul/li[5]/ul/li[6]/a</value>
+      <webElementGuid>9d0a7140-1f09-48c6-85c5-8b7a8013af0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Log
+                                            Out')]</value>
+      <webElementGuid>eea87e6b-ba84-4952-a99c-d41e4887d605</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Web Tour'])[1]/following::a[2]</value>
+      <webElementGuid>aab4f0f9-6978-4902-bb35-ead4c15ce18e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New'])[2]/following::a[3]</value>
+      <webElementGuid>e5fd0a97-01c1-4516-9c1a-2d3d1bc99e0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Welcome,'])[1]/preceding::a[1]</value>
+      <webElementGuid>77420ea4-4f16-429c-83c2-86c8c3a24e06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Officer'])[1]/preceding::a[1]</value>
+      <webElementGuid>57db9726-83ce-4a28-b81d-90dfea563912</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '../Authenticate/Signout.aspx')]</value>
+      <webElementGuid>913d7d3c-9b74-4dad-aa2a-7785207d5737</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/a</value>
+      <webElementGuid>6b5f1dc7-e2fd-4750-8d7b-8db40da69440</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '../Authenticate/Signout.aspx' and (text() = '  Log
+                                            Out' or . = '  Log
+                                            Out')]</value>
+      <webElementGuid>99ef9d44-5d31-4f31-9d68-bcbc48e5934c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

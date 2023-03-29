@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>PriceList SPK - Create SPK Yang Ada Pricelist Penambahan Lantai
+Terdapat Keterangan Pada Saat Memilih Pricelist (Refferensi Dari Kolom Ket Varian Harga Di PriceList)</description>
+   <name>PriceList SPK - Create SPK Yang Ada Pricelist Penambahan Lantai</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b2ad92f7-4cb3-47a0-b469-105febe72afa</testCaseGuid>
+</TestCaseEntity>

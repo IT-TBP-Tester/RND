@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pengajuan Cash - Pinjaman Dinas - Validasi No Rekening
+No Rekening Hanya Bisa Diinput Dengan Angka Saja</description>
+   <name>Pengajuan Cash - Pinjaman Dinas - Validasi No Rekening</name>
+   <tag>Pengajuan Cash; Pinjaman Dinas</tag>
+   <comment></comment>
+   <testCaseGuid>26e7039a-263c-4ec8-ab50-44b6e87e7067</testCaseGuid>
+</TestCaseEntity>

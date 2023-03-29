@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>DDL_Select2_Proyek</name>
+   <tag></tag>
+   <elementGuidId>fe8c6477-abcb-4eac-b8f4-a330e9e4ef06</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#s2id_ddlProyek > a.select2-choice > span.select2-chosen</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='s2id_ddlProyek']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>11c0acfa-59c0-4cc5-8154-930caa43e35a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-chosen</value>
+      <webElementGuid>817dfe2f-334f-41a6-9a68-84531ec19d0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>713 - ACCOUNTING</value>
+      <webElementGuid>1a6066a6-7ba6-4c46-a1b2-18aaef3e5701</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;s2id_ddlProyek&quot;)/a[@class=&quot;select2-choice&quot;]/span[@class=&quot;select2-chosen&quot;]</value>
+      <webElementGuid>644d187c-6f14-4d4d-a294-acf691d3bfc8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='s2id_ddlProyek']/a/span</value>
+      <webElementGuid>8f958ef3-334b-4214-8d9f-2c5e07dfdf04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::span[1]</value>
+      <webElementGuid>8d2ad189-c62a-490f-b418-6e3a557da44a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/preceding::span[2]</value>
+      <webElementGuid>ea9661d3-7bc6-4cba-9dae-14bd640e487d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='713 - ACCOUNTING']/parent::*</value>
+      <webElementGuid>10682800-dcca-49de-b04e-d1eed166db4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/a/span</value>
+      <webElementGuid>05e0dacf-3f0e-44ba-a794-a51f43d702db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '713 - ACCOUNTING' or . = '713 - ACCOUNTING')]</value>
+      <webElementGuid>c0f359bf-6ef6-4c97-8d5d-aa146fc01f1f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_SPK</name>
+   <tag></tag>
+   <elementGuidId>22fadc94-360f-4159-8779-fc146c9eea7d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[.='Surat Perintah Kerja (SPK)']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[href='../Transaction/POCA/SPK.aspx']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>dbd21663-8343-4e65-9c4f-3007e7ae2925</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mm-text</value>
+      <webElementGuid>04e3b632-7a57-4d65-ae8e-2fd331a40a08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Customer</value>
+      <webElementGuid>ec1ec6dd-41c5-478d-be7b-295b4ec2c344</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;CoreMenu&quot;)/li[@class=&quot;mm-dropdown mm-dropdown-root open&quot;]/ul[@class=&quot;mmc-dropdown-delay animated fadeInLeft&quot;]/li[@class=&quot;mm-dropdown open&quot;]/ul[1]/li[4]/a[1]/span[@class=&quot;mm-text&quot;]</value>
+      <webElementGuid>536ef131-93d3-49be-aaba-ff424c45e7cf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='CoreMenu']/li[6]/ul/li/ul/li[4]/a/span</value>
+      <webElementGuid>dcaec4b1-052d-44b8-ad08-296ef16feef6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tipe Kontrak Vendor'])[1]/following::span[1]</value>
+      <webElementGuid>97e15bda-09af-4251-ac3a-333f96f047c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bank'])[2]/following::span[2]</value>
+      <webElementGuid>b3430af2-2d4c-413d-a83a-f0d7965f52cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Group Item Material'])[1]/preceding::span[1]</value>
+      <webElementGuid>393a79b2-a1ee-4dc4-9755-2982a8141f5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Subgroup Item Material'])[1]/preceding::span[2]</value>
+      <webElementGuid>07ca3b6d-1189-43a2-a1b3-6e3c222a109c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Customer']/parent::*</value>
+      <webElementGuid>36bc1de9-666a-4a1a-877d-6c267f1e2fd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/ul/li/ul/li[4]/a/span</value>
+      <webElementGuid>63166870-6f60-486c-8456-ab56f83d6ad8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Customer' or . = 'Customer')]</value>
+      <webElementGuid>2098e7e3-b419-4bf0-a7e7-88f17f1886b8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

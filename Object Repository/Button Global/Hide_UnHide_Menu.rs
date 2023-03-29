@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Hide_UnHide_Menu</name>
+   <tag></tag>
+   <elementGuidId>0a290e57-cf57-49d7-9a35-b581ced33555</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.navbar-icon.fa.fa-bars.icon</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='main-menu-toggle']/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>6e9380da-e835-4639-b5dc-903a6687a5f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>navbar-icon fa fa-bars icon</value>
+      <webElementGuid>ab3ac823-2027-4f49-9059-12e6807e0b18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-menu-toggle&quot;)/i[@class=&quot;navbar-icon fa fa-bars icon&quot;]</value>
+      <webElementGuid>c146e151-f2a2-4153-878b-cf8c6795c4a1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='main-menu-toggle']/i</value>
+      <webElementGuid>52e99321-d649-4c87-9e26-97e8c228e6e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i</value>
+      <webElementGuid>31b6bdca-d5d3-475f-bbf8-01b8e8500a36</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

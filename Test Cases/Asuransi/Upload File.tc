@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Upload File</name>
+   <tag>Upload</tag>
+   <comment></comment>
+   <testCaseGuid>e6a31af6-dde2-48fc-b5b2-a9353bfb5c59</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>278f0c41-3472-458f-8d3b-e428f25ab756</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'C:\\\\Users\\\\160022\\\\Downloads\\\\Katalon-logo.png'</defaultValue>
+      <description></description>
+      <id>278f0c41-3472-458f-8d3b-e428f25ab756</id>
+      <masked>false</masked>
+      <name>FileName</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Detil_DDL_Pekerjaan</name>
+   <tag></tag>
+   <elementGuidId>6d0e6fe7-c073-4396-ba63-8faad23b8bfe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#s2id_jqg1_Deskripsi_Pekerjaan_ > a.select2-choice > span.select2-chosen</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='s2id_jqg1_Deskripsi_Pekerjaan_']/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a82f7a72-81cd-42cd-b326-b09f8010056a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-chosen</value>
+      <webElementGuid>4fcdd5c9-c1a4-4d0d-b13f-b39bebccbda0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pilih Pekerjaan</value>
+      <webElementGuid>e0c884ce-8c45-4429-b074-902a4d36ba87</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;s2id_jqg1_Deskripsi_Pekerjaan_&quot;)/a[@class=&quot;select2-choice&quot;]/span[@class=&quot;select2-chosen&quot;]</value>
+      <webElementGuid>737344df-eb6f-4476-bddf-4fe209e3a56f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='s2id_jqg1_Deskripsi_Pekerjaan_']/a/span</value>
+      <webElementGuid>4adffaaa-3afd-4c4f-8c4c-2edf84a8c13d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='x'])[58]/following::span[2]</value>
+      <webElementGuid>384dc5ec-38db-44fe-9236-6bcc33c9f67a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='x'])[57]/following::span[2]</value>
+      <webElementGuid>47b515fc-c3ca-47c7-adf0-aded2d49c60e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Utama'])[2]/preceding::span[4]</value>
+      <webElementGuid>ad0a7c51-aebe-4dda-afc6-1c1afb9239b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[4]/preceding::span[6]</value>
+      <webElementGuid>6bb639c4-c043-46b9-b47b-e057be50d16d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pilih Pekerjaan']/parent::*</value>
+      <webElementGuid>de3d1cc3-7f85-44ba-bbe4-59cdfec6be43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[5]/div/a/span</value>
+      <webElementGuid>6b9ffad4-5ad9-4597-8fed-23f17cefdbf4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Pilih Pekerjaan' or . = 'Pilih Pekerjaan')]</value>
+      <webElementGuid>8445bd7c-0bdd-4ad5-9328-e54267857933</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

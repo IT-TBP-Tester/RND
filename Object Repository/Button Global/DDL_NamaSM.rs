@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>DDL_NamaSM</name>
+   <tag></tag>
+   <elementGuidId>3fcbe726-6a0d-4e1c-ba47-890c0e9ba0d7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='s2id_ddlSiteManager']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.select2-result-label</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>901239f2-33a3-4566-863d-a226d02ea073</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-result-label</value>
+      <webElementGuid>eaf10a78-131f-4070-80c1-dc42baa18a33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1020100 - DEPOSITO BANK CIMB NIAGA                </value>
+      <webElementGuid>27b7a6fb-048b-4cf8-899e-f1ea64527e50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;select2-drop&quot;)/ul[@class=&quot;select2-results&quot;]/li[@class=&quot;select2-results-dept-0 select2-result select2-result-selectable select2-highlighted&quot;]/div[@class=&quot;select2-result-label&quot;]</value>
+      <webElementGuid>d2bb5793-0b37-4a71-b208-b0d4bb8e3881</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='select2-drop']/ul/li[4]/div</value>
+      <webElementGuid>368bd937-9bca-4bd7-99d8-a759e98db2e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please, select row'])[6]/following::div[8]</value>
+      <webElementGuid>5b70ad5c-c9cf-488b-80bf-3998ed8395dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Warning'])[6]/following::div[10]</value>
+      <webElementGuid>bc02d469-bcef-4028-8861-f5c1718715d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Loading more results...'])[1]/preceding::div[7]</value>
+      <webElementGuid>76d57bab-b218-47e3-80e6-61a46acf6bdb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='1020100 - DEPOSITO BANK CIMB NIAGA']/parent::*</value>
+      <webElementGuid>8ced1db5-7151-4906-be14-0b904318c147</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[17]/ul/li[4]/div</value>
+      <webElementGuid>faeceb74-2f20-4d62-9b86-41df2c3b8d41</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

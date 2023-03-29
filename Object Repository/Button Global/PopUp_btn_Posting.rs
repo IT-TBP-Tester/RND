@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PopUp_btn_Posting</name>
+   <tag></tag>
+   <elementGuidId>d537af72-582e-4c12-8946-40c992340d73</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.btn-success</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@class='btn btn-success btn-dialog-posting']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>2c9057fa-ce5d-4b9b-84b3-b9d5bb0da333</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn blue btn_posting</value>
+      <webElementGuid>80d4ec56-d7fb-43c2-80d8-313dc91768c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>return false;</value>
+      <webElementGuid>acbae51f-5180-4d9a-a659-7af2f050cd88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Posting</value>
+      <webElementGuid>784ab325-240d-4800-b7d8-64d271ab2ba2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dv_DetailContainer&quot;)/div[@class=&quot;form-actions noborderx apv-control&quot;]/div[@class=&quot;form-actions&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6&quot;]/div[@class=&quot;text-left&quot;]/button[@class=&quot;btn blue btn_posting&quot;]</value>
+      <webElementGuid>067c8f64-6ec1-42a5-8332-66f14dad42c8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@onclick='return false;']</value>
+      <webElementGuid>f8ecd156-baa4-48ba-841f-54e103dbd608</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dv_DetailContainer']/div[4]/div[2]/div/div[2]/div/button</value>
+      <webElementGuid>bad711d1-648a-4e6d-bedf-24f629ddfd7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View 1 - 1 of 1'])[1]/following::button[1]</value>
+      <webElementGuid>c24d5d1b-6fd1-4f10-a387-a3c5b75c942b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear'])[1]/preceding::button[1]</value>
+      <webElementGuid>adc36570-05d3-4428-a817-e08c88baad4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[1]/preceding::button[2]</value>
+      <webElementGuid>7effc6a7-1fda-4538-b025-4e219624af0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Posting']/parent::*</value>
+      <webElementGuid>70fff36b-5a82-48ff-b4b7-07234b86876b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/button</value>
+      <webElementGuid>a525baff-18f9-422e-8573-4d82f0f0ee24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Posting' or . = 'Posting')]</value>
+      <webElementGuid>a524d976-0447-4b42-8430-a5d9dfca6632</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Action_Btn</name>
+   <tag></tag>
+   <elementGuidId>684bc057-6a5c-4698-93ec-d820277e72e0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='1_editDetailIcon']/button/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-ellipsis-h</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>28cdaf3c-ab34-4124-9e70-6787a579e52c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-ellipsis-h</value>
+      <webElementGuid>296162c1-af0c-4d62-aa51-a7c9601345f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;1_editDetailIcon&quot;)/button[@class=&quot;btn btn-xs green dropdown-toggle&quot;]/i[@class=&quot;fa fa-ellipsis-h&quot;]</value>
+      <webElementGuid>9f4ee2a3-ffc7-462c-885a-df615ee3d80f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='1_editDetailIcon']/button/i</value>
+      <webElementGuid>6353d2d2-5058-42ff-9b68-c3ac0a9125dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[11]/div/button/i</value>
+      <webElementGuid>fb32042c-7c02-451d-940f-43a4ada16ab4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

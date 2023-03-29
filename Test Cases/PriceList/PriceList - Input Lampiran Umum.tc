@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>PriceList - Input Lampiran Umum</description>
+   <name>PriceList - Input Lampiran Umum</name>
+   <tag>PriceList</tag>
+   <comment></comment>
+   <testCaseGuid>ee2f9b82-a087-4c98-9e47-a1b9817747a0</testCaseGuid>
+</TestCaseEntity>

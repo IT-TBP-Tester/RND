@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>DDL_PPN</name>
+   <tag></tag>
+   <elementGuidId>9e5820e6-7f71-4470-bd62-89f102ec522f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#s2id_ddlPPN > a.select2-choice > span.select2-chosen</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='s2id_ddlPPN']/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>90088351-021c-4a6d-9252-ea720e78212d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-chosen</value>
+      <webElementGuid>113cb999-87ae-4e08-81ca-5ae663ef68f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Non PPN</value>
+      <webElementGuid>a5b49624-d47b-465d-8079-656f52ca5ac5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;s2id_ddlPPN&quot;)/a[@class=&quot;select2-choice&quot;]/span[@class=&quot;select2-chosen&quot;]</value>
+      <webElementGuid>d99ac68e-1829-41d6-b90d-c1f3351100fe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='s2id_ddlPPN']/a/span</value>
+      <webElementGuid>72d7c1ed-82a7-4a28-a0a6-301fd6c33fb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[7]/following::span[1]</value>
+      <webElementGuid>bc26a36b-43fc-4757-aa33-7ced7f2d8304</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mata Uang'])[1]/preceding::span[2]</value>
+      <webElementGuid>9631e4bd-b152-4b18-b7e0-e485a986f9f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IDR'])[2]/preceding::span[2]</value>
+      <webElementGuid>f7585b86-c0d2-402b-8193-692241d4e70f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Non PPN']/parent::*</value>
+      <webElementGuid>1d632a47-724e-44e3-a2b5-b9750204b0ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/a/span</value>
+      <webElementGuid>ee984553-60cf-4895-8161-72913b3f2deb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Non PPN' or . = 'Non PPN')]</value>
+      <webElementGuid>2d36f174-ca56-4d5f-9218-b1f5bd6d05b7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

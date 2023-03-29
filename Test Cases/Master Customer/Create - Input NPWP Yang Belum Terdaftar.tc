@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Input NPWP Yang Belum Terdaftar</description>
+   <name>Create - Input NPWP Yang Belum Terdaftar</name>
+   <tag>Customer</tag>
+   <comment></comment>
+   <testCaseGuid>c8952db0-a09b-4f9b-aaaa-de9818e6cac4</testCaseGuid>
+</TestCaseEntity>

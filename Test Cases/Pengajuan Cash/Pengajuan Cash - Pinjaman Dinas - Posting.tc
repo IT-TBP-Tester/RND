@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pengajuan Cash - Pinjaman Dinas - Posting</description>
+   <name>Pengajuan Cash - Pinjaman Dinas - Posting</name>
+   <tag>Pengajuan Cash; Pinjaman Dinas</tag>
+   <comment></comment>
+   <testCaseGuid>e10b9ff2-9f4b-4c58-87d9-d734b6692a1d</testCaseGuid>
+</TestCaseEntity>

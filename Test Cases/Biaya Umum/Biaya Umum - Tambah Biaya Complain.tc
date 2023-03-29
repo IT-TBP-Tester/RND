@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Tambah Biaya Complain</description>
+   <name>Biaya Umum - Tambah Biaya Complain</name>
+   <tag>Biaya Umum</tag>
+   <comment></comment>
+   <testCaseGuid>f1350e6e-107a-42b1-b843-dc274aa0118b</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>be29022b-85ff-4070-802b-075749126cbe</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>88fba8c7-f25b-42ab-908c-98a66a2cf963</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>67536623-f645-4706-baa5-d077d9b9d52e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ebc0033a-20d5-4085-8525-4bd0d21da3a6</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2dbf77c2-b663-4b90-81d0-bca42bf6e4cc</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'WISMA BARITO PACIFIC 2'</defaultValue>
+      <description></description>
+      <id>be29022b-85ff-4070-802b-075749126cbe</id>
+      <masked>false</masked>
+      <name>Proyek_Pelanggan</name>
+   </variable>
+   <variable>
+      <defaultValue>'Granit luar lepas/jatuh'</defaultValue>
+      <description></description>
+      <id>88fba8c7-f25b-42ab-908c-98a66a2cf963</id>
+      <masked>false</masked>
+      <name>Masalah</name>
+   </variable>
+   <variable>
+      <defaultValue>'ALL'</defaultValue>
+      <description></description>
+      <id>67536623-f645-4706-baa5-d077d9b9d52e</id>
+      <masked>false</masked>
+      <name>Lantai</name>
+   </variable>
+   <variable>
+      <defaultValue>'1000000'</defaultValue>
+      <description></description>
+      <id>ebc0033a-20d5-4085-8525-4bd0d21da3a6</id>
+      <masked>false</masked>
+      <name>Nilai_Biaya_Complain</name>
+   </variable>
+   <variable>
+      <defaultValue>'GENEX.450220900030'</defaultValue>
+      <description></description>
+      <id>2dbf77c2-b663-4b90-81d0-bca42bf6e4cc</id>
+      <masked>false</masked>
+      <name>No_Biaya_Umum</name>
+   </variable>
+</TestCaseEntity>

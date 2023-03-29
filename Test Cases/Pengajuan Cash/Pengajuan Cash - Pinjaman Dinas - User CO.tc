@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pengajuan Cash - Pinjaman Dinas - User CO
+DDL User Enabled &amp; Menampilkan Semua Data User Yang Masih Aktif
+DDL Kode Proyek Enabled &amp; Menampilkan Semua Data Proyek Yang Masih Aktif</description>
+   <name>Pengajuan Cash - Pinjaman Dinas - User CO</name>
+   <tag>Pengajuan Cash; Pinjaman Dinas</tag>
+   <comment></comment>
+   <testCaseGuid>341d2d56-e7fd-4ef2-bd32-99b558ccd62b</testCaseGuid>
+</TestCaseEntity>

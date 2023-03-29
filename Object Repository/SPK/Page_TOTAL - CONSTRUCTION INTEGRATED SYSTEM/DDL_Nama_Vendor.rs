@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>DDL_Nama_Vendor</name>
+   <tag></tag>
+   <elementGuidId>191c5828-558d-4c7a-868c-49c8f18ea64e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.select2-choice.select2-default > span.select2-chosen</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='s2id_ddlVendor']/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8f53a6bf-7630-49e8-b80e-80970fd3fe08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-chosen</value>
+      <webElementGuid>0700fd03-80ce-4ae7-ba5d-5edbd42c5ea3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>-- Pilih --</value>
+      <webElementGuid>369d675e-e91f-4dc1-8132-c688c1a4c449</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;s2id_ddlVendor&quot;)/a[@class=&quot;select2-choice select2-default&quot;]/span[@class=&quot;select2-chosen&quot;]</value>
+      <webElementGuid>e896ddd4-82a4-4a18-aa3a-b206cad935dc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='s2id_ddlVendor']/a/span</value>
+      <webElementGuid>4e480cc6-b789-44e2-936c-1d1481137ac6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::span[1]</value>
+      <webElementGuid>35ff8cdf-5d85-4243-942d-7d95e7959cff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lintas Vendor'])[1]/preceding::span[2]</value>
+      <webElementGuid>e594b006-3cae-4ce5-b6e5-c5f7645ab387</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Vendor Utama Ref'])[1]/preceding::span[2]</value>
+      <webElementGuid>d9240df4-03bd-40d7-b0c7-b8f40490cc96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='-- Pilih --']/parent::*</value>
+      <webElementGuid>2f684cd5-8cbe-460c-9294-503ff3273380</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/div/div/a/span</value>
+      <webElementGuid>7fbbfb62-324e-421e-adcb-e09e3fb8d1a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '-- Pilih --' or . = '-- Pilih --')]</value>
+      <webElementGuid>e5a6e193-8bce-4140-8275-c03c51ce2f42</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

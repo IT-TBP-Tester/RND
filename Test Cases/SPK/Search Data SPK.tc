@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Search Data SPK</name>
+   <tag>SPK Search</tag>
+   <comment></comment>
+   <testCaseGuid>af926745-db4f-4200-93a3-26d386bc4ec3</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3a5d0282-5b22-41cf-a861-9c1a333f7ac7</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'SPK990323030001'</defaultValue>
+      <description></description>
+      <id>3a5d0282-5b22-41cf-a861-9c1a333f7ac7</id>
+      <masked>false</masked>
+      <name>Kode_SPK</name>
+   </variable>
+</TestCaseEntity>

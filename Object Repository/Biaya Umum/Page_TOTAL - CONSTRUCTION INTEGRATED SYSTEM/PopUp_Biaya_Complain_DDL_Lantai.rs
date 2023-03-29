@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PopUp_Biaya_Complain_DDL_Lantai</name>
+   <tag></tag>
+   <elementGuidId>e8736874-b98b-4280-9d7c-fa7952919ec7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[.='-- Pilih --']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[aria-describedby='ComplainGrid_Lantai'] .select2-chosen</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>883e20c2-e70f-4152-859a-54009f80840a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-chosen</value>
+      <webElementGuid>ed57c844-4750-444d-8182-c671d4e222a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>-- Pilih --</value>
+      <webElementGuid>5af51f0c-f2de-4fd9-ad9d-3b581fb7fe6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;s2id_jqg3_Lantai&quot;)/a[@class=&quot;select2-choice&quot;]/span[@class=&quot;select2-chosen&quot;]</value>
+      <webElementGuid>8256fcab-58d0-42a3-8417-d3bf45d3e0b1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='s2id_jqg3_Lantai']/a/span</value>
+      <webElementGuid>5e31a553-dcb4-4963-8aaf-0af76862b4bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='x'])[46]/following::span[3]</value>
+      <webElementGuid>79220efb-11db-4db1-9a81-ece45bd70768</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='x'])[45]/following::span[3]</value>
+      <webElementGuid>e4e68cb6-829a-4a28-a676-61bc2f9571f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ubah'])[2]/preceding::span[2]</value>
+      <webElementGuid>46ede375-bb7d-4887-879c-81c0560de070</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hapus'])[2]/preceding::span[2]</value>
+      <webElementGuid>5f4e8d70-2264-4845-9b1c-1c25b43baf63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]/div/a/span</value>
+      <webElementGuid>4affb1a2-3063-4ce9-8ab8-37d8af7e29d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '-- Pilih --' or . = '-- Pilih --')]</value>
+      <webElementGuid>420a7454-917b-4390-9755-6a7e73184e7f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

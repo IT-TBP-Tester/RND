@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Reject</name>
+   <tag></tag>
+   <elementGuidId>39330d1b-ec05-408e-977d-b20685a21bf7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@class='btn red btn_reject']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.btn_reject</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d54da835-0b49-4b2b-8ae2-e58e4eceede4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn red btn_reject</value>
+      <webElementGuid>b2fa4592-9ae1-45c4-85f8-09c08f86c357</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>return false;</value>
+      <webElementGuid>0229abc7-2aaa-4cbe-b30e-c6f24c0ad95e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Reject</value>
+      <webElementGuid>df038a1d-faba-4981-9e61-316407883fbb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dv_DetailContainer&quot;)/div[@class=&quot;form-actions noborderx apv-control&quot;]/div[@class=&quot;form-actions&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6&quot;]/div[@class=&quot;text-right&quot;]/button[@class=&quot;btn red btn_reject&quot;]</value>
+      <webElementGuid>dedfb36a-888d-4891-a609-a062c776a1f8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@onclick='return false;'])[4]</value>
+      <webElementGuid>518dfad1-7c24-4c49-afe6-94ac0eeea43d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dv_DetailContainer']/div[4]/div[3]/div/div[2]/div[2]/button</value>
+      <webElementGuid>b699a991-495a-40f3-b7b5-3f38aa6d200b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Revision'])[1]/following::button[1]</value>
+      <webElementGuid>4ac2b1c3-99e9-4ffa-b8e4-d291dbb70466</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[1]/following::button[2]</value>
+      <webElementGuid>761dd361-7643-4f5f-bfee-645dcee4a359</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Approve'])[1]/preceding::button[1]</value>
+      <webElementGuid>30c50ff2-c7b3-4efd-a268-fb214d10d204</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yokoshita Dwi Purnomo, S.Kom.'])[8]/preceding::button[2]</value>
+      <webElementGuid>e8b074e0-7072-4e88-9f5c-3dacf61e631c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Reject']/parent::*</value>
+      <webElementGuid>39c0be88-093d-46bc-bbc5-ae1f2dcebb92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div[2]/button</value>
+      <webElementGuid>e80c5592-51ac-4b6a-bb71-db2c5767e584</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Reject' or . = 'Reject')]</value>
+      <webElementGuid>b848228a-9768-4f5c-98d3-7e88c298ebca</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

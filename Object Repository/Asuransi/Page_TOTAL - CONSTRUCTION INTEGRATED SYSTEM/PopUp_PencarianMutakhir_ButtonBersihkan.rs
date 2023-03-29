@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PopUp_PencarianMutakhir_ButtonBersihkan</name>
+   <tag></tag>
+   <elementGuidId>02b2228f-dba9-40f8-b759-264027d46f37</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.btn-label.icon.fa.fa-refresh</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='btnClearSearch']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9919b2ba-6430-4b50-844c-dfe153fe6fe6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-label icon fa fa-refresh</value>
+      <webElementGuid>23855091-040c-40a2-bd4c-19e85650860d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;btnClearSearch&quot;)/span[@class=&quot;btn-label icon fa fa-refresh&quot;]</value>
+      <webElementGuid>35d58880-fc38-4a26-9e62-968b1ce0e5aa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='btnClearSearch']/span</value>
+      <webElementGuid>7787cafb-1a50-4bdb-a965-0ebe34336c7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/span</value>
+      <webElementGuid>810e3d69-deca-4d0c-889b-935530265e73</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

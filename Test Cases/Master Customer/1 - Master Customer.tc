@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Menu Master Customer</description>
+   <name>1 - Master Customer</name>
+   <tag>Master Customer</tag>
+   <comment></comment>
+   <testCaseGuid>619df203-dbc2-4295-9b5f-b9d9be3a60fe</testCaseGuid>
+</TestCaseEntity>

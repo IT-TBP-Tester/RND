@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Transaction</name>
+   <tag></tag>
+   <elementGuidId>faaf8e1e-a975-4a8f-bb0f-e784b68c9d02</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='CoreMenu']/li[9]/ul/li/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ul.mmc-dropdown-delay.animated.fadeInLeft > li.mm-dropdown.open > a</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[@tabindex = '-1' and (text() = 'Transaction' or . = 'Transaction')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c3de021c-867b-4855-a41a-4f8cdedeb4ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>ed0165c0-c406-48c6-a061-e56c0ed629d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Transaction</value>
+      <webElementGuid>4b7623c6-4cc2-4dd7-bffe-2f978af14666</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;CoreMenu&quot;)/li[@class=&quot;mm-dropdown mm-dropdown-root open&quot;]/ul[@class=&quot;mmc-dropdown-delay animated fadeInLeft&quot;]/li[@class=&quot;mm-dropdown open&quot;]/a[1]</value>
+      <webElementGuid>f5b83bba-8324-4d3d-be64-8b6602fd3613</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='CoreMenu']/li[9]/ul/li/a</value>
+      <webElementGuid>baee71c3-3595-42dd-aaaf-91f3b518b267</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cash Management'])[1]/following::a[1]</value>
+      <webElementGuid>54ed7439-3831-4654-b932-12af5ab91430</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cetak Barcode'])[1]/following::a[2]</value>
+      <webElementGuid>52d5fc1e-2c51-4f6d-b86b-f4de61d53a28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pengajuan Cash'])[3]/preceding::a[1]</value>
+      <webElementGuid>ebe04a97-6a11-40ce-b5e8-ac8d9b17c50b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[9]/ul/li/a</value>
+      <webElementGuid>20fc19d7-6647-48f6-9015-edf6813d8502</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'Transaction' or . = 'Transaction')]</value>
+      <webElementGuid>46cd28ec-27a5-43fc-94aa-13372ad2db81</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

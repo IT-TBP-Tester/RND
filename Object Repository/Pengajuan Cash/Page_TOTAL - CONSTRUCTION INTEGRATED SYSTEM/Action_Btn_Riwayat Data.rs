@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Action_Btn_Riwayat Data</name>
+   <tag></tag>
+   <elementGuidId>8aa83e87-ae66-4b12-b223-30d214167c8b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@onclick='History(1);']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ad24d113-50db-4774-a0c9-bf94ff8493a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:;</value>
+      <webElementGuid>5b4288cb-73b2-44fc-81cc-2eaff11e36fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>History(1);</value>
+      <webElementGuid>b3c5d511-3aa5-4e8d-aabd-66a449e45bc5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Riwayat Data </value>
+      <webElementGuid>f1d2d069-5d5e-4666-ae11-01e6eae1527a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;1_editDetailIcon&quot;)/ul[@class=&quot;dropdown-menu pull-right&quot;]/li[3]/a[1]</value>
+      <webElementGuid>2466707a-48fb-4561-b062-a8320f838167</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@onclick='History(1);']</value>
+      <webElementGuid>ec04c2cc-bcfe-498c-844a-107b7395381b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='1_editDetailIcon']/ul/li[3]/a</value>
+      <webElementGuid>dd3e365c-20d4-4a72-914e-5a381e784759</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Riwayat Data')]</value>
+      <webElementGuid>9f29933d-14ec-45ac-8bf4-9a7a99c43045</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ubah'])[1]/following::a[1]</value>
+      <webElementGuid>507f07a2-9889-4b4c-9d0e-c21c502d5639</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Disetujui'])[2]/following::a[2]</value>
+      <webElementGuid>5d885625-b692-4433-b9dc-0c6a87beabff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cetak'])[2]/preceding::a[1]</value>
+      <webElementGuid>dd824369-29ae-4012-bfb2-55f8ade02fc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yokoshita Dwi Purnomo, S.Kom.'])[1]/preceding::a[2]</value>
+      <webElementGuid>bb5d2aa9-2ddc-41c7-8419-36f2ff5bde60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Riwayat Data']/parent::*</value>
+      <webElementGuid>4ca617d7-9905-46b3-b413-03651574eeb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'javascript:;')])[7]</value>
+      <webElementGuid>25b7341f-5574-423d-83b1-6a5f90b7c0cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[11]/div/ul/li[3]/a</value>
+      <webElementGuid>58f5bf9e-e140-4b10-a2d2-a18a872e54da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:;' and (text() = 'Riwayat Data ' or . = 'Riwayat Data ')]</value>
+      <webElementGuid>ca3523f5-31c8-46af-ae3d-92743c6c3d9e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

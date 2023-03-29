@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>PopUp_PencarianMutakhir_ButtonTambah</name>
+   <tag></tag>
+   <elementGuidId>21798be3-6259-4240-9212-37f443ef842c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.icon.fa.fa-plus</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dvSearch']/div[2]/div/button[3]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f565f8b2-edc4-4dda-a5ae-1b206267a30f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon fa fa-plus</value>
+      <webElementGuid>7e8962de-cdae-4e0e-9e5e-0f0812347d98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dvSearch&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6 posRight&quot;]/button[@class=&quot;btn btn-flat btn-primary&quot;]/span[@class=&quot;icon fa fa-plus&quot;]</value>
+      <webElementGuid>2c6a0adc-b74b-4788-845c-e8cbed539703</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dvSearch']/div[2]/div/button[3]/span</value>
+      <webElementGuid>4c61e698-fa1a-4ba9-9abf-c0c5edbf3d36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[3]/span</value>
+      <webElementGuid>1e9bedc0-6401-4502-963c-b36ebc211107</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

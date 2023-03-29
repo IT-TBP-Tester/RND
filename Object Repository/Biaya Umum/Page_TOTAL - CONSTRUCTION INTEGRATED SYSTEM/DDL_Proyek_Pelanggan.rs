@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>DDL_Proyek_Pelanggan</name>
+   <tag></tag>
+   <elementGuidId>a48c959f-779b-4aa2-8740-1954f8c2a7c8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='s2id_ddlProjectCustomer']/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#dvCC .select2-chosen</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1fa48598-ab0a-412f-8ed1-08cacebbb689</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-chosen</value>
+      <webElementGuid>e50d56ad-41b5-47b1-a820-a462d5c0949f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>-- Pilih --</value>
+      <webElementGuid>ff890935-efb7-431e-8e1c-984dd083ad57</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;s2id_ddlProjectCustomer&quot;)/a[@class=&quot;select2-choice&quot;]/span[@class=&quot;select2-chosen&quot;]</value>
+      <webElementGuid>46e93f60-8f58-498b-bb09-58db6f4a8064</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='s2id_ddlProjectCustomer']/a/span</value>
+      <webElementGuid>bfec1c92-f839-4d2e-8112-ebd934e3f02c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tanggal Biaya Umum'])[2]/following::span[2]</value>
+      <webElementGuid>63c80a21-8acb-4d5a-83a2-d1b317d8546b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Complain'])[1]/preceding::span[2]</value>
+      <webElementGuid>492ae3b9-1413-46db-98ea-cc0b91b8892a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='-- Pilih --']/parent::*</value>
+      <webElementGuid>0f386c08-ade7-4529-8e30-48197275f977</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/div/a/span</value>
+      <webElementGuid>b3b75018-cb1d-4d3c-9c7d-fc9eacdf9d52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '-- Pilih --' or . = '-- Pilih --')]</value>
+      <webElementGuid>f2ae6089-fe29-448f-8eef-cd982f388bbb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

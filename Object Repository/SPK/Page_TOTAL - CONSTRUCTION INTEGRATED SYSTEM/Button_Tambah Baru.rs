@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button_Tambah Baru</name>
+   <tag></tag>
+   <elementGuidId>f93e6e8e-65dd-42d9-bba1-73f0f624d2c5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#btnGlobalNew</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='btnGlobalNew']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>247cfbd1-dadc-42dd-98ad-812b50184f71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:;</value>
+      <webElementGuid>3f4f9f35-5c30-4a2f-91d2-691e2bec2768</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn green btn-outline btn-circle btn-sm add-detail</value>
+      <webElementGuid>30012792-2600-41d8-afc3-664431a56347</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>btnGlobalNew</value>
+      <webElementGuid>8bef8e97-e5bc-412f-a4ae-a5d0117d54ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tambah Baru
+                                                </value>
+      <webElementGuid>82982250-58d3-435c-9373-7db8619dd976</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;btnGlobalNew&quot;)</value>
+      <webElementGuid>52ab7e48-3b3b-480f-9b5f-c243ce7cd5eb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='btnGlobalNew']</value>
+      <webElementGuid>ce96a7b4-7ad7-4d08-88e1-a3949e9b9065</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dv_HeaderContainer']/div/div/div[2]/table/tbody/tr/td[2]/div/div/div/div/a</value>
+      <webElementGuid>b466e113-4daf-4b0c-bba8-4f272b21e855</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Tambah Baru')])[2]</value>
+      <webElementGuid>1e1b02df-43cb-4d9d-b834-753173749162</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='halaman ini digunakan untuk memasukan surat perintah kerja'])[1]/following::a[1]</value>
+      <webElementGuid>bbd54d1a-e6bc-47d7-b7e4-f590921c75a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pencarian Mutakhir'])[1]/preceding::a[1]</value>
+      <webElementGuid>2d646c90-1991-4702-a860-db0ecb4ab160</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'javascript:;')])[7]</value>
+      <webElementGuid>90eaeb87-ccaa-4dbd-b11b-72cce207afae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/div/div/div/div/a</value>
+      <webElementGuid>e575d986-eb25-4dd5-8eec-ce47406e8cb2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:;' and @id = 'btnGlobalNew' and (text() = 'Tambah Baru
+                                                ' or . = 'Tambah Baru
+                                                ')]</value>
+      <webElementGuid>6fe145d6-8bc2-4d81-90d7-6013e00168fe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

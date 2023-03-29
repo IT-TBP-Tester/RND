@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Procurement</name>
+   <tag></tag>
+   <elementGuidId>9516bc07-fada-40fe-a74e-3393007c4d16</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[.='Procurement']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>522d4a38-80b9-4950-b4d8-741d41ff57cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mm-text mmc-dropdown-delay animated fadeIn</value>
+      <webElementGuid>3966ad26-8f1e-4ac1-9d47-1df7f1800c24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Procurement</value>
+      <webElementGuid>230354e7-395a-493d-bef7-8f82e754f04d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;CoreMenu&quot;)/li[@class=&quot;mm-dropdown mm-dropdown-root&quot;]/a[1]/span[@class=&quot;mm-text mmc-dropdown-delay animated fadeIn&quot;]</value>
+      <webElementGuid>cd26a458-03da-4235-91c6-828b1d393b4e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='CoreMenu']/li[4]/a/span</value>
+      <webElementGuid>108b0c58-8c50-49bf-9ffb-0f8ea7940ff9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kurs Pajak'])[1]/following::span[1]</value>
+      <webElementGuid>188ed5b3-e049-4647-9532-cb89d3546ad4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notification Config'])[1]/following::span[2]</value>
+      <webElementGuid>5b1dbc26-866b-4136-9b37-0e4cea12d332</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Master'])[2]/preceding::span[1]</value>
+      <webElementGuid>195698b4-6556-4b4c-bcfa-0a6c9ce508f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kode CC'])[1]/preceding::span[2]</value>
+      <webElementGuid>df3095db-aa13-49bb-810d-7a0a62d0c97c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Procurement']/parent::*</value>
+      <webElementGuid>e788b387-f703-4546-8c7c-856ca1bff0f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/ul/li[4]/a/span</value>
+      <webElementGuid>4a7cc5eb-5db1-44e3-a079-3f94d50841b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Procurement' or . = 'Procurement')]</value>
+      <webElementGuid>513e3b29-0cca-4e2d-85da-33dcf1b9889c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>PriceList - Simpan</description>
+   <name>PriceList - Simpan</name>
+   <tag>PriceList</tag>
+   <comment></comment>
+   <testCaseGuid>0d1c1a90-fb83-4e10-9666-f6a192eafb4c</testCaseGuid>
+</TestCaseEntity>

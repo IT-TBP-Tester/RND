@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Notif_Pause</name>
+   <tag></tag>
+   <elementGuidId>25f10999-bf04-497a-b747-c69433191ca1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class='ui-pnotify-sticker']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.ui-pnotify-sticker</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f3f20ce1-8709-404e-9371-2f7b210756d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>alert ui-pnotify-container alert-danger ui-pnotify-shadow</value>
+      <webElementGuid>ac19707d-08c5-419a-9fd8-a57ab471045a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Error!NPWP sudah terdaftar</value>
+      <webElementGuid>a1d7654f-6a03-4997-b83d-b31606cc5586</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;gt-ie8 gt-ie9 not-ie pxajs&quot;]/body[@class=&quot;theme-default main-menu-animated animate-mm-sm animate-mm-md animate-mm-lg loaded mmc&quot;]/div[@class=&quot;ui-pnotify stack-bottomright&quot;]/div[@class=&quot;alert ui-pnotify-container alert-danger ui-pnotify-shadow&quot;]</value>
+      <webElementGuid>135aca26-c603-4a52-a6db-bebe5896328e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please, select row'])[4]/following::div[10]</value>
+      <webElementGuid>2ec435af-8c9c-4515-9b86-f0d9790845bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Warning'])[4]/following::div[12]</value>
+      <webElementGuid>cb503afc-d4ad-4d86-9cf2-de43e844bd61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[17]/div</value>
+      <webElementGuid>3fb0512d-c3a1-437f-b90c-3365d3f32c6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Error!NPWP sudah terdaftar' or . = 'Error!NPWP sudah terdaftar')]</value>
+      <webElementGuid>5292a2bd-acdb-4d24-88a9-fbec2e28297e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

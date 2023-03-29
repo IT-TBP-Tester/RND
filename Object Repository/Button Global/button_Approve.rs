@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Approve</name>
+   <tag></tag>
+   <elementGuidId>1ab6b42f-a094-4709-8938-0c686dccbce8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@class='btn green metro-save btn_approve']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.btn_approve</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>8c1f60c1-7399-4bb2-9558-d0be5b92ebd0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn green metro-save btn_approve</value>
+      <webElementGuid>0269d498-2f3d-4bf0-be5e-9a7cac57cfca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>return false;</value>
+      <webElementGuid>12c33406-8c3a-4306-8448-ca02382d90cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Approve</value>
+      <webElementGuid>5f11f2d6-288e-4d90-a8e4-8954ebdaf8fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dv_DetailContainer&quot;)/div[@class=&quot;form-actions noborderx apv-control&quot;]/div[@class=&quot;form-actions&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6&quot;]/div[@class=&quot;text-right&quot;]/button[@class=&quot;btn green metro-save btn_approve&quot;]</value>
+      <webElementGuid>4b470621-b086-4055-8f76-e38ffa776817</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@onclick='return false;'])[5]</value>
+      <webElementGuid>183e321a-37e2-43fb-a362-5056bfd7d5d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dv_DetailContainer']/div[4]/div[3]/div/div[2]/div[2]/button[2]</value>
+      <webElementGuid>923f049a-361d-4766-b0e9-ac7231479d9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reject'])[1]/following::button[1]</value>
+      <webElementGuid>522863b4-8710-4f4d-8259-ed8148483ba1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Revision'])[1]/following::button[2]</value>
+      <webElementGuid>933d3534-cc6a-4532-84a9-716e574256b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yokoshita Dwi Purnomo, S.Kom.'])[8]/preceding::button[1]</value>
+      <webElementGuid>5b45e01d-42be-42ec-b599-3feb5597f32b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='General Affair'])[1]/preceding::button[1]</value>
+      <webElementGuid>67e52ed0-0568-4a70-a916-9a1245d7a8d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Approve']/parent::*</value>
+      <webElementGuid>fdc20b10-863a-403e-a922-242b07fb48f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div[2]/button[2]</value>
+      <webElementGuid>3c604a3c-a760-415e-8de5-a738782761d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Approve' or . = 'Approve')]</value>
+      <webElementGuid>82a9db0d-fa27-4170-84e9-c8f121409116</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

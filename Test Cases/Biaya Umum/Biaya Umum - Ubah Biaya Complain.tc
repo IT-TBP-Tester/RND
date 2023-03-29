@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Ubah Biaya Complain</description>
+   <name>Biaya Umum - Ubah Biaya Complain</name>
+   <tag>Biaya Umum</tag>
+   <comment></comment>
+   <testCaseGuid>5e984512-788f-4c94-a736-0fd8f59839c1</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b6c4b034-f1e6-4ae1-a609-cd7f4a12c094</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>40a9d446-e2b2-4ace-9ab8-b451cb77b9d9</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>682d5e86-eb94-4152-89db-dcd5c813a37a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Bocor basement/delatasi'</defaultValue>
+      <description></description>
+      <id>b6c4b034-f1e6-4ae1-a609-cd7f4a12c094</id>
+      <masked>false</masked>
+      <name>Masalah</name>
+   </variable>
+   <variable>
+      <defaultValue>'ALL'</defaultValue>
+      <description></description>
+      <id>40a9d446-e2b2-4ace-9ab8-b451cb77b9d9</id>
+      <masked>false</masked>
+      <name>Lantai</name>
+   </variable>
+   <variable>
+      <defaultValue>'110000'</defaultValue>
+      <description></description>
+      <id>682d5e86-eb94-4152-89db-dcd5c813a37a</id>
+      <masked>false</masked>
+      <name>Nilai_Biaya_Complain</name>
+   </variable>
+</TestCaseEntity>

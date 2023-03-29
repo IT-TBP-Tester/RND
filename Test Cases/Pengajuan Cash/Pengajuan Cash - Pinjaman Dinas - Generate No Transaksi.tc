@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Pengajuan Cash - Pinjaman Dinas - Generate No Transaksi
+Tipe Pinjaman Dinas : PJK
+Tipe Reimburse : RBS</description>
+   <name>Pengajuan Cash - Pinjaman Dinas - Generate No Transaksi</name>
+   <tag>Pengajuan Cash; Pinjaman Dinas</tag>
+   <comment></comment>
+   <testCaseGuid>f10341c5-fd91-4df6-bbd7-cf5bb6a2277c</testCaseGuid>
+</TestCaseEntity>

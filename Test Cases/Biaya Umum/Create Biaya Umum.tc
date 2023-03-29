@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Create Biaya Umum</description>
+   <name>Create Biaya Umum</name>
+   <tag>Biaya Umum</tag>
+   <comment></comment>
+   <testCaseGuid>691d0c3b-7bfe-4cad-8cca-760c6f29cc68</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>bd16ef3c-3bae-472e-99c1-85c1edb64227</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>02288b57-fcd0-4f35-9c59-cc5d68ea5df4</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>87963796-14ac-41d6-b2e8-304e02eb3b28</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>55ab6738-4406-4554-8e40-f55c55f9fdd4</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>baa08839-5870-4ee6-bc09-26cb08853e2f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'ACHMAD BAJUMI SH'</defaultValue>
+      <description></description>
+      <id>bd16ef3c-3bae-472e-99c1-85c1edb64227</id>
+      <masked>false</masked>
+      <name>Nama_Vendor</name>
+   </variable>
+   <variable>
+      <defaultValue>'ANGKUTAN MATERIAL'</defaultValue>
+      <description></description>
+      <id>02288b57-fcd0-4f35-9c59-cc5d68ea5df4</id>
+      <masked>false</masked>
+      <name>Item</name>
+   </variable>
+   <variable>
+      <defaultValue>'10'</defaultValue>
+      <description></description>
+      <id>87963796-14ac-41d6-b2e8-304e02eb3b28</id>
+      <masked>false</masked>
+      <name>Volume</name>
+   </variable>
+   <variable>
+      <defaultValue>'100000'</defaultValue>
+      <description></description>
+      <id>55ab6738-4406-4554-8e40-f55c55f9fdd4</id>
+      <masked>false</masked>
+      <name>Unit_Price</name>
+   </variable>
+   <variable>
+      <defaultValue>'Created By System'</defaultValue>
+      <description></description>
+      <id>baa08839-5870-4ee6-bc09-26cb08853e2f</id>
+      <masked>false</masked>
+      <name>Keterangan</name>
+   </variable>
+</TestCaseEntity>

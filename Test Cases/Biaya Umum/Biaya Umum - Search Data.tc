@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Biaya Umum</description>
+   <name>Biaya Umum - Search Data</name>
+   <tag>Biaya Umum</tag>
+   <comment></comment>
+   <testCaseGuid>0c98b8d5-ba95-4516-ba42-1f08b7f2af39</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>10208a87-d992-45b2-accc-8560e290268d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'GENEX.450220900030'</defaultValue>
+      <description></description>
+      <id>10208a87-d992-45b2-accc-8560e290268d</id>
+      <masked>false</masked>
+      <name>No_Biaya_Umum</name>
+   </variable>
+</TestCaseEntity>

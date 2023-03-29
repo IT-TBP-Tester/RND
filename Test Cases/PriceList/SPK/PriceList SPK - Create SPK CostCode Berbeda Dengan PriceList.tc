@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>PriceList SPK - Create SPK CostCode Berbeda Dengan PriceList</description>
+   <name>PriceList SPK - Create SPK CostCode Berbeda Dengan PriceList</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7d7d4031-9645-4e72-8656-0daf3bba77b3</testCaseGuid>
+</TestCaseEntity>

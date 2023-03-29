@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_BiayaUmum</name>
+   <tag></tag>
+   <elementGuidId>9e19670e-b020-4002-9eff-7deab47bae59</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[.='Form Biaya Umum']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>91c560fa-227e-4d72-a3d9-30db3b972e78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mm-text</value>
+      <webElementGuid>a1825b63-62b4-4288-b4e1-57f702da5873</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kontrak Vendor</value>
+      <webElementGuid>a583df94-3d5a-45f0-ac68-7e59080be64c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;CoreMenu&quot;)/li[@class=&quot;mm-dropdown mm-dropdown-root open&quot;]/ul[@class=&quot;mmc-dropdown-delay animated fadeInLeft&quot;]/li[@class=&quot;mm-dropdown open&quot;]/ul[1]/li[4]/a[1]/span[@class=&quot;mm-text&quot;]</value>
+      <webElementGuid>194a2082-b421-4fbd-93b2-404bb985e3fb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='CoreMenu']/li[4]/ul/li[2]/ul/li[4]/a/span</value>
+      <webElementGuid>1bc6ebe5-6b69-4735-afd5-412665f2ac45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tagihan AP'])[1]/following::span[1]</value>
+      <webElementGuid>0a2b6c64-48a1-48e7-bfba-a09a292b5a89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='POCA Transaksi Pusat - SPK Kerja Kurang'])[1]/following::span[2]</value>
+      <webElementGuid>8a73d9d2-4c99-4acb-b27a-7df49a7dbaaf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Surat Perintah Kerja (SPK)'])[1]/preceding::span[1]</value>
+      <webElementGuid>1f5b87ce-04cc-4f67-b481-730229b0a740</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kontrak Berita Acara'])[1]/preceding::span[2]</value>
+      <webElementGuid>5cdcd8e2-1aed-407d-8754-1a97cfd11530</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Kontrak Vendor']/parent::*</value>
+      <webElementGuid>0f16ba20-9255-4180-98cd-aa87b477b7cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/ul/li[4]/a/span</value>
+      <webElementGuid>8adb1169-6ac2-455d-9c7c-2df83a970a54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Kontrak Vendor' or . = 'Kontrak Vendor')]</value>
+      <webElementGuid>7450ed89-2000-40ad-bd4e-3000e2fae421</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

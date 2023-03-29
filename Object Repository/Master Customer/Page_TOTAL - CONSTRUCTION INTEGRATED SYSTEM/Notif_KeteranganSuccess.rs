@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Notif_KeteranganSuccess</name>
+   <tag></tag>
+   <elementGuidId>3dfb3000-9e9f-4505-8d9c-bc4fae8c6e5a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Success!'])[1]/following::div[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.ui-pnotify-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>fb6b3a6d-c5e2-47e5-beae-792e8dfdc7ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-pnotify-text</value>
+      <webElementGuid>5a00eb67-a0d3-4d77-85ea-1da8a0ce8e85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Data berhasil disimpan</value>
+      <webElementGuid>a8402e9d-c956-4b74-b4eb-7bbf2aab0d4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;gt-ie8 gt-ie9 not-ie pxajs&quot;]/body[@class=&quot;theme-default main-menu-animated animate-mm-sm animate-mm-md animate-mm-lg loaded mmc&quot;]/div[@class=&quot;ui-pnotify stack-bottomright&quot;]/div[@class=&quot;alert ui-pnotify-container alert-success ui-pnotify-shadow&quot;]/div[@class=&quot;ui-pnotify-text&quot;]</value>
+      <webElementGuid>2b4e962e-cee7-4382-a84b-fb7401ed5460</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Success!'])[1]/following::div[1]</value>
+      <webElementGuid>c44dbdc0-d78a-44d8-8c93-9d1e319b2e82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Posisi Modul'])[1]/following::div[9]</value>
+      <webElementGuid>977b1728-0ea2-4ff1-8adf-4ed31ee5dc57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Data berhasil disimpan']/parent::*</value>
+      <webElementGuid>c3cec913-e817-4061-8b0f-0244739379ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[12]/div/div[4]</value>
+      <webElementGuid>a24f5053-ab6c-4e15-9073-47091c63f11e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Data berhasil disimpan' or . = 'Data berhasil disimpan')]</value>
+      <webElementGuid>8f423f8c-72cc-458c-9071-8ee29be386b8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

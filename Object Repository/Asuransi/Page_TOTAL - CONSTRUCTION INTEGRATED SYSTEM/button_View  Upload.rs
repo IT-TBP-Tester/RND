@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_View  Upload</name>
+   <tag></tag>
+   <elementGuidId>59a74a4c-c9b7-40cb-b019-d5db42c25661</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#btnUploadDoc</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='btnUploadDoc']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f0b6dddf-65a1-40c3-acb5-e470b4560a4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn blue</value>
+      <webElementGuid>6cce82e8-d06e-4fce-ad84-fa835afd5b0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>btnUploadDoc</value>
+      <webElementGuid>bb58a694-9ab8-4272-8b24-15f881700eaa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>View / Upload</value>
+      <webElementGuid>99bdf965-4d39-4787-b354-da7e002d551f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;btnUploadDoc&quot;)</value>
+      <webElementGuid>4ad91e89-c918-447a-b07f-3ed2c2c894b4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='btnUploadDoc']</value>
+      <webElementGuid>fedeb0ff-5b48-40ea-9ffd-295bb220f510</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dv_DetailContainer']/div/div/div/div[2]/div/div/div/div[2]/div[7]/div[2]/button</value>
+      <webElementGuid>b6cc6c95-d28e-4a0f-84bc-5307ae335170</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dokumen'])[1]/following::button[1]</value>
+      <webElementGuid>6ccae9ff-7fb8-4e7b-9863-fb5cf8cd6a69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Keterangan'])[2]/following::button[1]</value>
+      <webElementGuid>21d8777d-5792-4aa1-bdd1-3bd33e8ff36e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Installment'])[1]/preceding::button[1]</value>
+      <webElementGuid>d053d64c-4663-48bf-9f89-16d3184ce24d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Potongan'])[1]/preceding::button[1]</value>
+      <webElementGuid>1f59eacc-6ba2-4530-b255-c2b0c8977b0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='View / Upload']/parent::*</value>
+      <webElementGuid>74066f03-9bed-44ea-b28f-f728885d6326</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button</value>
+      <webElementGuid>67b509f0-bcf8-4aeb-9367-6db45f6bf34e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'btnUploadDoc' and (text() = 'View / Upload' or . = 'View / Upload')]</value>
+      <webElementGuid>50545f80-4ab0-49a9-a908-8451c3853fea</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

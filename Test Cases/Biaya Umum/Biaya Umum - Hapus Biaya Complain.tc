@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Hapus Biaya Complain</description>
+   <name>Biaya Umum - Hapus Biaya Complain</name>
+   <tag>Biaya Umum</tag>
+   <comment></comment>
+   <testCaseGuid>e1bff7e6-64c3-44ac-9189-1cd935ddfa0d</testCaseGuid>
+</TestCaseEntity>

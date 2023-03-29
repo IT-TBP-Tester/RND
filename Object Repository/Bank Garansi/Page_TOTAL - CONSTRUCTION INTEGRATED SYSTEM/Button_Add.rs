@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Button_Add</name>
+   <tag></tag>
+   <elementGuidId>b9660193-6e51-4a29-85ad-94a85a06ba24</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.btn-label.icon.fa.fa-plus.small</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='btnAddGlobal']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>df1e6bea-1f13-4ba1-9b23-638df939ea9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn-label icon fa fa-plus small</value>
+      <webElementGuid>bc0ad534-9db1-43c7-8d5c-1d8da611a93c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;btnAddGlobal&quot;)/span[@class=&quot;btn-label icon fa fa-plus small&quot;]</value>
+      <webElementGuid>bc9124ee-b40f-4aee-b1bb-d3aed66b990d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='btnAddGlobal']/span</value>
+      <webElementGuid>f2bb32d0-5003-4ce4-9af1-31a7deca99d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a/span</value>
+      <webElementGuid>e140cf51-910c-44ee-b410-d402145771d6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

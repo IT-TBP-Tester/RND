@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Search Data Penempatan Asuransi</name>
+   <tag>Search</tag>
+   <comment></comment>
+   <testCaseGuid>978c0731-ca69-4a54-8bcd-f7b55c89efbc</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a7e6081e-cde7-4224-bc64-e6d525a01c21</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>81c63cb8-b2b6-4013-b1da-d61158cb4240</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Semua'</defaultValue>
+      <description></description>
+      <id>a7e6081e-cde7-4224-bc64-e6d525a01c21</id>
+      <masked>false</masked>
+      <name>StatusPersetujuan</name>
+   </variable>
+   <variable>
+      <defaultValue>'888INS202302001-0'</defaultValue>
+      <description></description>
+      <id>81c63cb8-b2b6-4013-b1da-d61158cb4240</id>
+      <masked>false</masked>
+      <name>NoPenempatanAsuransi</name>
+   </variable>
+</TestCaseEntity>

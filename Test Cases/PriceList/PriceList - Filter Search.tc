@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>PriceList - Filter Search</description>
+   <name>PriceList - Filter Search</name>
+   <tag>PriceList</tag>
+   <comment></comment>
+   <testCaseGuid>2ae99cac-5aa1-4841-915e-50e9b8fb2f19</testCaseGuid>
+</TestCaseEntity>

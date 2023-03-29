@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>PriceList - Uncheck Lampiran Khusus (Non Template)</description>
+   <name>PriceList - Uncheck Lampiran Khusus (Non Template)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>56ab7bf1-eabd-4289-bd60-b32595535a95</testCaseGuid>
+</TestCaseEntity>

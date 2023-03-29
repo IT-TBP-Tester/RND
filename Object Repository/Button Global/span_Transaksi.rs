@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Transaksi</name>
+   <tag></tag>
+   <elementGuidId>0ede64b9-1983-4205-9d11-67be7adb59bc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>ul.mmc-dropdown-delay.animated.fadeInLeft > li.mm-dropdown.open > a > span.mm-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//span[@class='mm-text'][normalize-space()='Transaksi'])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6bcd95f1-b04e-4b5b-b220-e19bf3317863</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mm-text</value>
+      <webElementGuid>f420b4b1-b193-40b4-ab68-4f98ff527fb8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Transaksi</value>
+      <webElementGuid>8c906c7c-fb27-40b2-84ff-8c079d464eb9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;CoreMenu&quot;)/li[@class=&quot;mm-dropdown mm-dropdown-root open&quot;]/ul[@class=&quot;mmc-dropdown-delay animated fadeInLeft&quot;]/li[@class=&quot;mm-dropdown open&quot;]/a[1]/span[@class=&quot;mm-text&quot;]</value>
+      <webElementGuid>aa8b9eaa-1917-4d2a-92a8-9b0438ef22c3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='CoreMenu']/li[3]/ul/li[2]/a/span</value>
+      <webElementGuid>158314c3-683c-47f7-ba8c-b9ff43ab0ba6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pendaftaran Rekanan'])[1]/following::span[1]</value>
+      <webElementGuid>7ba5f049-36db-4e13-a5d1-2416963b4474</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Generate Link Pendaftaran Rekanan'])[1]/following::span[2]</value>
+      <webElementGuid>5ed55c9e-345d-457a-a023-4ee33613b335</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Risalah SPK (RSPK)'])[1]/preceding::span[1]</value>
+      <webElementGuid>4dd89c4c-39db-477e-ae51-8891d707daff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='POCA Transaksi Pusat - SPK Kerja Kurang'])[1]/preceding::span[2]</value>
+      <webElementGuid>23092c98-715f-4e5a-8b84-8e2bc00631bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Transaksi']/parent::*</value>
+      <webElementGuid>4e124cf0-8c79-4389-9a24-3f2f0e48d363</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/ul/li[2]/a/span</value>
+      <webElementGuid>ea455290-041d-480b-b757-80e6bf55cfb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Transaksi' or . = 'Transaksi')]</value>
+      <webElementGuid>3351be6d-7d0b-4ca8-9f69-7fad9d1a4510</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

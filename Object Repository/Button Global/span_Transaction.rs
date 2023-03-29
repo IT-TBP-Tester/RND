@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Transaction</name>
+   <tag></tag>
+   <elementGuidId>199f5c64-83a6-4f35-b50b-af1df9030983</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//li[@class='mm-dropdown mm-dropdown-root open']/ul[@class='mmc-dropdown-delay animated fadeInLeft']/li[@class='mm-dropdown']/a/span[@class='mm-text'])</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[@class = 'mm-text' and (text() = 'Transaction' or . = 'Transaction')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>(//li[@class='mm-dropdown mm-dropdown-root open']/ul[@class='mmc-dropdown-delay animated fadeInLeft']//li[@class='mm-dropdown']/a/span[@class='mm-text'])</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e02c803c-2cee-40ee-a1fc-61cc18ef6205</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mm-text</value>
+      <webElementGuid>32f283f4-346c-47b0-b688-5627c31343dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Transaction</value>
+      <webElementGuid>dd6a3680-d560-4e9b-bb3c-d4d76024ed63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;CoreMenu&quot;)/li[@class=&quot;mm-dropdown mm-dropdown-root open&quot;]/ul[@class=&quot;mmc-dropdown-delay animated fadeInLeft&quot;]/li[@class=&quot;mm-dropdown&quot;]/a[1]/span[@class=&quot;mm-text&quot;]</value>
+      <webElementGuid>7ea83ebb-2f07-4f01-96e4-91f80c604da5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='CoreMenu']/li[10]/ul/li/a/span</value>
+      <webElementGuid>18e6d60c-ef29-4f42-8ee9-d72c9a423249</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cash Management'])[1]/following::span[1]</value>
+      <webElementGuid>1d0fc67c-037e-4094-89b8-16c21441534c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Site Resource Monitoring'])[1]/following::span[2]</value>
+      <webElementGuid>4e461f20-0ae2-4409-8dd7-eede28400d69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pengajuan Cash'])[1]/preceding::span[1]</value>
+      <webElementGuid>a8da6f70-1e12-476f-90b0-7bc22d40ddef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pertanggungjawaban Pinjaman'])[1]/preceding::span[2]</value>
+      <webElementGuid>daa70940-a465-42cc-b615-92044e3b42f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[10]/ul/li/a/span</value>
+      <webElementGuid>13b2378f-6097-42be-95a7-10888c420573</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Transaction' or . = 'Transaction')]</value>
+      <webElementGuid>ee857991-d72b-4d2b-9560-b7b0c8f5b0bc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

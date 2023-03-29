@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Installment</name>
+   <tag>Installment</tag>
+   <comment></comment>
+   <testCaseGuid>ec0173f0-fad6-40d5-b063-283ac862cf3c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b6023491-e0bc-4146-b9fb-3ad016dcd931</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'D:\\IT\\GIT\\TestCIS\\Data Files\\Asuransi_Installment.xlsx'</defaultValue>
+      <description></description>
+      <id>b6023491-e0bc-4146-b9fb-3ad016dcd931</id>
+      <masked>false</masked>
+      <name>Installment</name>
+   </variable>
+</TestCaseEntity>
